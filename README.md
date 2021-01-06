@@ -1,5 +1,5 @@
 # Riemann-sum-cpp
-An implementation of Riemann sum integration in c++ using the cmath library using a tolerance of 0.0001. To increase the degree of accuracy, edit TOLERANCE in line 28 of main.cpp to be a smaller value.
+An implementation of Riemann sum integration in c++ using the cmath library with a tolerance of 0.0001. To increase the degree of accuracy, edit TOLERANCE in line 28 of main.cpp to be a smaller value.
 https://en.wikipedia.org/wiki/Riemann_sum
 
 **This is a c++ program which means you need a compiler such as g++ to run it. G++ can be installed through the terminal in Linux or Mac OS, or MinGW for Windows. More information about using g++ can be found in my blog and many other places on the web.**
