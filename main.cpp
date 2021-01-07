@@ -48,13 +48,13 @@ output << "}";
 output.close();
 
 system("g++ solve.cpp -o solve");
+#if defined(WIN32) || defined(_WIN32) || defined(__WIN32) && !defined(__CYGWIN__)
+system("solve.exe");
+#else
 system("./solve");
+#endif
 
 cout << "\n\nDone.\n\n";
-
-//const char *command = "echo hello world\n\n\n";
-
-//system(command);
 
 return 0;
 }
