@@ -13,7 +13,7 @@ https://en.wikipedia.org/wiki/Riemann_sum
 
 3) Type the following command:
 *g++ main.cpp* 
-to compile the program. A new file should appear in the folder called *a.exe* (Windows) or *a.out* (Mac/Linux). This means the program was compiled. (If this doesn't work then you probably don't have g++ installed correctly... I've tested the program thoroughly enough to know it works).
+to compile the program. A new executable file should appear in the folder called *a.exe* (Windows) or *a.out* (Mac/Linux). This means the program was compiled. (If this doesn't work then you probably don't have g++ installed correctly... I've tested the program thoroughly enough to know it works).
 
 4) Now it's time to run the compiled program. In Windows command prompt use the command 
 *a.exe*  
