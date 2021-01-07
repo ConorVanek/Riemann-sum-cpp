@@ -5,7 +5,7 @@ https://en.wikipedia.org/wiki/Riemann_sum
 **This is a c++ program which means you need a compiler such as g++ to run it. G++ can be installed through the terminal in Linux or Mac OS, or MinGW for Windows. More information about using g++ can be found in my blog and many other places on the web.**
 
 # How to Use
-(*There are other ways to compile c++ code but this is how I do it because it is free and simple.)
+(*There are other ways to compile c++ code but this is how I do it because it is free and simple.*)
 
 1) Download the files and create a folder to put them in.
 
